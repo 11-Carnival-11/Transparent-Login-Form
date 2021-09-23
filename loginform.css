@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url("/loginformbgimage.jpg");
+    background-image: url("loginformbgimage.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
